@@ -15,6 +15,10 @@
 		{
 			"Name": "OpenXRHandTracking",
 			"Enabled": true
+		},
+		{
+			"Name": "XRVisualization",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
