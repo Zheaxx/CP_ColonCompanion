@@ -76,5 +76,11 @@ DerivedDataCache/*
 #APKS
 APK/*
 
+#EXE (For PCVR)
+00_EXE/*
+
+#Temporal new bathroom testing
+Content/Art/Mesh/Bathroom/bathroom_interior/*
+
 #Art source files
 Sources/*
