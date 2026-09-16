@@ -87,6 +87,8 @@ The stylised visual approach deliberately avoids an overly realistic representat
 
 Unreal Engine's VR template was used as the starting point for the project, extending it with custom gameplay systems, avatar logic, interactions and UI. Blender was used for modelling and retopology.
 
+![My Ostomy Companion](Documentation/Media/tfm1.gif)
+
 ## Avatar and IK system
 
 The player avatar is based on the `BP_XRPawn` provided by Unreal Engine's VR template.
@@ -108,6 +110,8 @@ The bathroom includes a virtual mirror that provides a visual representation of 
 Instead of relying on a conventional real-time Scene Capture mirror for the standalone version, the environment uses a **simulated mirror space** with a duplicated version of the room. A second avatar reproduces the player's actions, allowing the player to observe their body and interact with elements such as the shirt and ostomy pouch.
 
 This approach reduces the rendering cost associated with a traditional real-time mirror and was part of the optimisation strategy for standalone VR.
+
+![My Ostomy Companion](Documentation/Media/tfm2.gif)
 
 ## Gameplay architecture
 
