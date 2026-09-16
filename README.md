@@ -52,7 +52,7 @@ The experience follows a guided sequence:
 The interaction is designed around actions that resemble real-world behaviour, such as grabbing and releasing objects, manipulating clothing and handling the ostomy pouch.
 
 ## Demo video
-[Watch demo video](https://drive.google.com/file/d/157hsafzFkJF62lbApcnHuE88ZcD3cTqs/view?usp=drive_link)
+[![Watch the demonstration](Documentation/Images/video_thumbnail.png)](https://drive.google.com/file/d/157hsafzFkJF62lbApcnHuE88ZcD3cTqs/view?usp=sharing)
 
 ## Key features
 
